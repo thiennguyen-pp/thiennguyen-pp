@@ -20,3 +20,4 @@ I love anything related to programming and web/app development. That is the reas
 - [Google Developer](https://g.dev/thiennguyen)
 
 
+### Version: 1.0
